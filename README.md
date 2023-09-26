@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FloofAHG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Virunas#0001
+- 📫 How to reach me: discord @virunas or at http://virunas.com
 
 <!---
 FloofAHG/FloofAHG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
