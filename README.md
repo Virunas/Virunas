@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Virunas
+- 👋 Hi, I’m Robyn!
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Assembly and discrete math in school
 - 💞️ I’m looking to collaborate on Minecraft content
